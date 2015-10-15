@@ -7,15 +7,15 @@ permalink:        pretty
 relative_permalinks: true
 
 # Setup
-title:            Code 
-tagline:          'A Jekyll theme'
+title:            Nishant Kumar
+tagline:          'Nishant Kumar'
 description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
 url:              http://nishant8bits.github.io
 baseurl:          /
 
 author:
   name:           'Nishant Kumar'
-  url:            https://twitter.com/mdo
+  url:            https://twitter.com/mfssharma
 
 paginate:         5
 
