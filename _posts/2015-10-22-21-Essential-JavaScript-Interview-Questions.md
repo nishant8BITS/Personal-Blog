@@ -23,11 +23,11 @@ Here `var x = 1` is both a declaration and definition (also we can say we are do
 
 The assignment happens in order, so when we try to access a variable that is declared but not defined yet, we will get the result `undefined`.
 
-{% highlight js %}
+```javascript
 var x; // Declaration
 if(typeof x === 'undefined') // Will return true
 
-{% endhighlight %}
+```
 If a variable that is neither declared nor defined, when we try to reference such a variable we'd get the result `not defined`.
 
 ```javascript
