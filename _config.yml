@@ -7,9 +7,9 @@ permalink:        pretty
 relative_permalinks: true
 
 # Setup
-title:            Nishant Kumar
-tagline:          'Nishant Kumar'
-description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
+title:            'Nishant Kumar'
+tagline:          'Nishant Kumar:JavaScript, Angular js, Node.js, Ionic Article'
+description:      'Personal Blof for share my thought and technical aspect which I used to do day to day'
 url:              http://nishant8bits.github.io
 baseurl:          /
 
@@ -17,7 +17,7 @@ author:
   name:           'Nishant Kumar'
   url:            https://twitter.com/mfssharma
 
-paginate:         5
+paginate:         10
 
 # Custom vars
 version:          2.1.0
