@@ -7,7 +7,7 @@ permalink:        pretty
 
 # Setup
 title:            'Nishant Kumar'
-tagline:          'Nishant Kumar:JavaScript, Angular js, Node.js, Ionic Article'
+tagline:          'Nishant Kumar:Javascript | Elixir | Phoenix | TypeScript | NodeJS | VueJS | React | React-Native | Python | AWS | Mongodb'
 description:      'Personal Blog for share my thought and technical aspect which I used to do day to day'
 url:              http://nishant8bits.github.io
 baseurl:          http://nishantkr.me/
@@ -16,7 +16,7 @@ author:
   name:           'Nishant Kumar'
   url:            https://twitter.com/mfssharma
 
-paginate:         10
+paginate:         20
 
 # Custom vars
 version:          2.1.0
