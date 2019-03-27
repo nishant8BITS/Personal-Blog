@@ -8,9 +8,9 @@ permalink:        pretty
 # Setup
 title:            'Nishant Kumar'
 tagline:          'Nishant Kumar:JavaScript, Angular js, Node.js, Ionic Article'
-description:      'Personal Blof for share my thought and technical aspect which I used to do day to day'
+description:      'Personal Blog for share my thought and technical aspect which I used to do day to day'
 url:              http://nishant8bits.github.io
-baseurl:          /
+baseurl:          http://nishantkr.me/
 
 author:
   name:           'Nishant Kumar'
