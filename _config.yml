@@ -9,8 +9,8 @@ permalink:        pretty
 title:            'Nishant Kumar'
 tagline:          'Nishant Kumar:Javascript | Elixir | Phoenix | TypeScript | NodeJS | VueJS | React | React-Native | Python | AWS | Mongodb'
 description:      'Personal Blog for share my thought and technical aspect which I used to do day to day'
-url:              http://nishant8bits.github.io
-baseurl:          http://nishantkr.me/
+url:              http://nishantkr.com/
+baseurl:          http://nishantkr.com/
 
 author:
   name:           'Nishant Kumar'
@@ -20,6 +20,3 @@ paginate:         20
 
 # Custom vars
 version:          2.1.0
-
-github:
-  repo:           https://github.com/poole/hyde
