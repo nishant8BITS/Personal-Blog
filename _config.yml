@@ -9,8 +9,8 @@ permalink:        pretty
 title:            'Nishant Kumar'
 tagline:          'Nishant Kumar:Javascript | Elixir | Phoenix | TypeScript | NodeJS | VueJS | React | React-Native | Python | AWS | Mongodb'
 description:      'Personal Blog for share my thought and technical aspect which I used to do day to day'
-url:              http://nishantkr.com/
-baseurl:          http://nishantkr.com/
+url:              https://nishantkr.com/
+baseurl:          https://nishantkr.com/
 
 author:
   name:           'Nishant Kumar'
